@@ -15,7 +15,6 @@
 - [Visualisation](#performance-visualization)
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
 - [References](#references)
 
 
@@ -149,4 +148,5 @@ sudo yum install python3-tkinter
 - [VGG16 Paper](https://arxiv.org/abs/1409.1556)
 
 Together, we can advance the fight against skin cancer and help save lives with the power of **artificial intelligence**.
+
 
