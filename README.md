@@ -142,13 +142,6 @@ sudo yum install python3-tkinter
 
 ---
 
-## License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
----
-
-
 ## References
 
 - [Kaggle Skin Cancer Dataset](https://www.kaggle.com/datasets/fanconic/skin-cancer-malignant-vs-benign)
@@ -156,3 +149,4 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - [VGG16 Paper](https://arxiv.org/abs/1409.1556)
 
 Together, we can advance the fight against skin cancer and help save lives with the power of **artificial intelligence**.
+
